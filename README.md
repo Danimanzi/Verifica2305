@@ -31,7 +31,7 @@ git init
 
 git config user.email "daniele.manzini@salesianiverona.it"
 
-![cattura1]("cattura1.png")
+![cattura1]("cattura1.PNG")
 
 io inserisco prima di solito il README.md, una volta caricato il README.md su git (online), metto anche tutto il resto 
 
