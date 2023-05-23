@@ -1,0 +1,5 @@
+TRACCIA 
+Scrivere un programma Java che utilizzi la classe LinkedList per gestire una lista di numeri interi. Il programma deve fornire le seguenti funzionalità:
+-	Aggiungere un numero in coda alla lista
+-	Rimuovere il primo elemento della lista
+-	Visualizzare il contenuto della lista
