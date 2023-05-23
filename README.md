@@ -35,5 +35,17 @@ git config user.email "daniele.manzini@salesianiverona.it"
 
 io inserisco prima di solito il README.md, una volta caricato il README.md su git (online), metto anche tutto il resto 
 
+git add README.md
+
+git commit -m "inserisco md"
+
+git branch -M main 
+
+git remote add origin https://github.com/Danimanzi/Verifica2305.git # git remote va fatto solo la prima volta 
+
+git push https://Danimanzi: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@github.com/Danimanzi/Verifica2305.git 
+
+![cattura2](cattura2.png)
+
 
 
