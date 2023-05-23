@@ -1,5 +1,5 @@
 Cosa fare nella esercitazione di info: 
-1.	Quali sono le differenze tra la classe ArrayList e la classe LinkedList nella libreria Java Collection? In quali situazioni conviene utilizzare una o l'altra classe?
+
 2.	Scrivere un programma Java che utilizzi la classe LinkedList per gestire una lista di numeri interi. Il programma deve fornire le seguenti funzionalità:
 -	Aggiungere un numero in coda alla lista
 -	Rimuovere il primo elemento della lista
@@ -29,4 +29,11 @@ cd $HOME/Desktop/Verifica2305/ # cambia da pc a pc, nel mio caso è questo perco
 
 git init 
 
-git 
+git config user.email "daniele.manzini@salesianiverona.it"
+
+![cattura1](cattura1.PNG)
+
+io inserisco prima di solito il README.md, una volta caricato il README.md su git (online), metto anche tutto il resto 
+
+
+
