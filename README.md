@@ -99,27 +99,18 @@ Il codice può essere inserito delimitandolo con tre backtick `.
 Le citazioni possono essere fatte aggiungendo `>` prima del testo.
 
 
+# comandi base
 
+git help command # visualizza la documentazione completa relativa al comando 
 
+git command -h # visualizza la documentazione sintetica relativa al comando specifico 
 
+git status # visualizza la sincronizzazione con il repository del contenuto della directory in cui si è posizionati 
 
+git log # visualizza la storia delle sincronizzazione con il repository del contenuto della directory in cui si è posizionati
 
+git remote -v # visualizza i repository remoti utilizzati 
 
+git diff # visualizza le differenze tra la directory in cui si è, e lo stage 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+git push repository # sincronizza il repository remoto specificato con il contenuto del repository locale  
