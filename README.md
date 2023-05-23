@@ -27,18 +27,20 @@ visto che git bash c'è già, inizio a scrivere il README.md
 ## configurazione del repository locale e sincronizzazione 
 
 scrivere su `git-bash`: 
+
 ```
+
 cd $HOME/Desktop/Verifica2305/ # cambia da pc a pc, nel mio caso è questo percorso 
-
-git init 
-
+git init  # Inizializza il repository locale 
 git config user.email "daniele.manzini@salesianiverona.it"
+
 ```
+
 ![cattura1](cattura1.png)
 
 io inserisco prima di solito il README.md, una volta caricato il README.md su git (online), metto anche tutto il resto 
 
-git add README.md
+git add README.md # Inserimento del file README.md nell'area di staging
 
 git commit -m "inserisco md"
 
